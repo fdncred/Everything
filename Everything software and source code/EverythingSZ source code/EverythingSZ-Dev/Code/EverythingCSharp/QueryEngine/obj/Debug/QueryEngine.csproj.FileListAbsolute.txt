@@ -1,0 +1,12 @@
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\bin\Debug\QueryEngine.dll
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\bin\Debug\QueryEngine.pdb
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\bin\Debug\UsnOperation.dll
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\bin\Debug\PInvoke.dll
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\bin\Debug\UsnOperation.pdb
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\bin\Debug\PInvoke.pdb
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\bin\Debug\PInvoke.dll.config
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\obj\Debug\QueryEngine.csprojAssemblyReference.cache
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\obj\Debug\QueryEngine.csproj.CoreCompileInputs.cache
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\obj\Debug\QueryEngine.csproj.CopyComplete
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\obj\Debug\QueryEngine.dll
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\obj\Debug\QueryEngine.pdb

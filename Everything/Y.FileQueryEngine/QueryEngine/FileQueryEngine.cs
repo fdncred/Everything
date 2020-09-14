@@ -32,7 +32,7 @@ namespace Y.FileQueryEngine.QueryEngine
                 "$Extend"
             }).ToUpper();
         /// <summary>
-        /// 获取所有NTFS文件系统的固定磁盘
+        /// Get fixed disks for all NTFS file systems
         /// </summary>
         /// <returns></returns>
         public static IEnumerable<DriveInfo> GetFixedNtfsDrives()
@@ -41,7 +41,7 @@ namespace Y.FileQueryEngine.QueryEngine
                 .Where(d => d.DriveType == DriveType.Fixed && d.DriveFormat.ToUpper() == "NTFS");
         }
         /// <summary>
-        /// 获取所有NTFS文件系统的磁盘
+        /// Get the disk of all NTFS file systems
         /// </summary>
         /// <returns></returns>
         public static IEnumerable<DriveInfo> GetReadyNtfsDrives()
@@ -50,7 +50,7 @@ namespace Y.FileQueryEngine.QueryEngine
                 .Where(d => d.IsReady && d.DriveFormat.ToUpper() == "NTFS");
         }
         /// <summary>
-        /// 查询磁盘的所有文件
+        /// Query all files on the disk
         /// </summary>
         /// <param name="drive"></param>
         /// <returns></returns>
@@ -70,7 +70,7 @@ namespace Y.FileQueryEngine.QueryEngine
             return false;
         }
         /// <summary>
-        /// 查询磁盘的所有文件
+        /// Query all files on the disk
         /// </summary>
         /// <param name="drive"></param>
         /// <returns></returns>

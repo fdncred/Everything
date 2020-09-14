@@ -1,0 +1,10 @@
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\UsnOperation\bin\Debug\UsnOperation.dll
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\UsnOperation\bin\Debug\UsnOperation.pdb
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\UsnOperation\bin\Debug\PInvoke.dll
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\UsnOperation\bin\Debug\PInvoke.pdb
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\UsnOperation\bin\Debug\PInvoke.dll.config
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\UsnOperation\obj\Debug\UsnOperation.csprojAssemblyReference.cache
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\UsnOperation\obj\Debug\UsnOperation.csproj.CoreCompileInputs.cache
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\UsnOperation\obj\Debug\UsnOperation.csproj.CopyComplete
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\UsnOperation\obj\Debug\UsnOperation.dll
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\UsnOperation\obj\Debug\UsnOperation.pdb

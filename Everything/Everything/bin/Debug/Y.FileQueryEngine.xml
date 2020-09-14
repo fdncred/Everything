@@ -11,26 +11,26 @@
         </member>
         <member name="M:Y.FileQueryEngine.QueryEngine.FileQueryEngine.GetFixedNtfsDrives">
             <summary>
-            获取所有NTFS文件系统的固定磁盘
+            Get fixed disks for all NTFS file systems
             </summary>
             <returns></returns>
         </member>
         <member name="M:Y.FileQueryEngine.QueryEngine.FileQueryEngine.GetReadyNtfsDrives">
             <summary>
-            获取所有NTFS文件系统的磁盘
+            Get the disk of all NTFS file systems
             </summary>
             <returns></returns>
         </member>
         <member name="M:Y.FileQueryEngine.QueryEngine.FileQueryEngine.GetAllFiles(System.IO.DriveInfo)">
             <summary>
-            查询磁盘的所有文件
+            Query all files on the disk
             </summary>
             <param name="drive"></param>
             <returns></returns>
         </member>
         <member name="M:Y.FileQueryEngine.QueryEngine.FileQueryEngine.GetAllFileEntrys(System.IO.DriveInfo)">
             <summary>
-            查询磁盘的所有文件
+            Query all files on the disk
             </summary>
             <param name="drive"></param>
             <returns></returns>

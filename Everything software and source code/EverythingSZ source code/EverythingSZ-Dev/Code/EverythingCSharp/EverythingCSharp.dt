@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT4M2.2883202S" SolutionTotalViewTime="PT7M38.6186285S" SolutionTotalDebugTime="PT6M46.0440996S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp</SolutionFolder>
+  <SolutionCreattionDate>2019-07-18T09:30:38.9441282-05:00</SolutionCreattionDate>
+  <ProjectsCreatedDateList>
+    <ProjectCreated>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\PInvoke\PInvoke.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:00:58.7716382-05:00</CreatedDate>
+    </ProjectCreated>
+    <ProjectCreated>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\USNJournalConsole\USNJournalConsole.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:00:58.8485813-05:00</CreatedDate>
+    </ProjectCreated>
+    <ProjectCreated>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\UsnOperation\UsnOperation.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:00:58.9124007-05:00</CreatedDate>
+    </ProjectCreated>
+    <ProjectCreated>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\QueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:00:58.8455816-05:00</CreatedDate>
+    </ProjectCreated>
+    <ProjectCreated>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\WinFormUI.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:00:59.0582493-05:00</CreatedDate>
+    </ProjectCreated>
+  </ProjectsCreatedDateList>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT6M46.0440996S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-07-18T10:19:45.1634615-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT36.7642858S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\Engine.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\QueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T10:21:28.1721472-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.177404S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\FileAndDirectoryEntry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\QueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T10:21:11.7115077-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6M29.3287863S" EditActiveTime="PT4M2.2883202S">
+      <ModifiedDate>2019-07-18T10:21:22.8885683-05:00</ModifiedDate>
+      <ModifiedBy>us991808</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\MainForm.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\WinFormUI.csproj</ProjectName>
+      <CreatedDate>2019-07-18T09:55:55.3058229-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT20.1991988S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\MainForm.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\WinFormUI.csproj</ProjectName>
+      <CreatedDate>2019-07-18T10:10:42.1364444-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.1489536S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>Timer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-07-18T10:09:10.8399928-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT6M46.0440996S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-07-18T10:19:45.1634615-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT36.7642858S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\Engine.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\QueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T10:21:28.1721472-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.177404S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\FileAndDirectoryEntry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\QueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T10:21:11.7115077-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6M29.3287863S" EditActiveTime="PT4M2.2883202S">
+      <ModifiedDate>2019-07-18T10:21:22.8885683-05:00</ModifiedDate>
+      <ModifiedBy>us991808</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\MainForm.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\WinFormUI.csproj</ProjectName>
+      <CreatedDate>2019-07-18T09:55:55.3058229-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT20.1991988S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\MainForm.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\WinFormUI.csproj</ProjectName>
+      <CreatedDate>2019-07-18T10:10:42.1364444-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.1489536S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>Timer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-07-18T10:09:10.8399928-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT36.7642858S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\Engine.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\QueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T10:21:28.1721472-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.177404S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\FileAndDirectoryEntry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\QueryEngine\QueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T10:21:11.7115077-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6M46.0440996S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-07-18T10:19:45.1634615-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT20.1991988S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\MainForm.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\WinFormUI.csproj</ProjectName>
+      <CreatedDate>2019-07-18T10:10:42.1364444-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.1489536S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>0</ViewedCount>
+      <Item>Timer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-07-18T10:09:10.8399928-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6M29.3287863S" EditActiveTime="PT4M2.2883202S">
+      <ModifiedDate>2019-07-18T10:21:22.8885683-05:00</ModifiedDate>
+      <ModifiedBy>us991808</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\MainForm.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\WinFormUI.csproj</ProjectName>
+      <CreatedDate>2019-07-18T09:55:55.3058229-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>

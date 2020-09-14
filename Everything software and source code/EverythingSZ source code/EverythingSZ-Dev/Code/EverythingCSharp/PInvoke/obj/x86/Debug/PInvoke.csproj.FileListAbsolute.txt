@@ -1,0 +1,7 @@
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\PInvoke\bin\Debug\PInvoke.dll.config
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\PInvoke\bin\Debug\PInvoke.dll
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\PInvoke\bin\Debug\PInvoke.pdb
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\PInvoke\obj\x86\Debug\PInvoke.csprojAssemblyReference.cache
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\PInvoke\obj\x86\Debug\PInvoke.csproj.CoreCompileInputs.cache
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\PInvoke\obj\x86\Debug\PInvoke.dll
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\PInvoke\obj\x86\Debug\PInvoke.pdb

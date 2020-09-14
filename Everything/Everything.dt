@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT6M53.9689907S" SolutionTotalViewTime="PT11M39.6933264S" SolutionTotalDebugTime="PT7M58.2354692S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>C:\Users\us991808\source\repos\Everything\Everything</SolutionFolder>
+  <SolutionCreattionDate>2019-07-17T16:02:51.0303698-05:00</SolutionCreattionDate>
+  <ProjectsCreatedDateList>
+    <ProjectCreated>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Everything\Everything.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:01:01.7040438-05:00</CreatedDate>
+    </ProjectCreated>
+    <ProjectCreated>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:01:02.4835299-05:00</CreatedDate>
+    </ProjectCreated>
+  </ProjectsCreatedDateList>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT7M58.2347372S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-07-17T16:04:05.4094271-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.4880889S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\QueryEngine\FileAndDirectoryEntry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:31:14.7226996-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.3631292S" EditActiveTime="PT19.6733482S">
+      <ModifiedDate>2019-07-18T07:32:29.2997131-05:00</ModifiedDate>
+      <ModifiedBy>us991808</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\QueryEngine\FileQueryEngine.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:05:26.6703881-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.887669S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\QueryEngine\FrnFilePath.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:32:32.0110403-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5M4.7670101S" EditActiveTime="PT2M59.6716206S">
+      <ModifiedDate>2019-07-18T07:50:57.3068026-05:00</ModifiedDate>
+      <ModifiedBy>us991808</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Everything\Views\MainForm.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Everything\Everything.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:03:49.5302462-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT29.774463S" EditActiveTime="PT1M0.1027913S">
+      <ModifiedDate>2019-07-18T07:29:57.7468817-05:00</ModifiedDate>
+      <ModifiedBy>us991808</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Everything\Views\MainForm.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Everything\Everything.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:27:41.2838671-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.3685493S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Everything\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Everything\Everything.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:03:40.1607008-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT23.0668406S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Win32\Structures\USN_RECORD_V2.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:55:09.8313162-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.6544636S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnControlCode.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:32:37.620545-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.9676988S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnEntry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:32:42.6362261-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.7881232S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnErrorCode.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:32:48.3624774-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.8654304S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnJournalData.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:32:52.5021128-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M33.2083074S" EditActiveTime="PT2M34.5212306S">
+      <ModifiedDate>2019-07-18T07:50:18.3697432-05:00</ModifiedDate>
+      <ModifiedBy>us991808</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnOperator.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:06:56.6581716-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.1090779S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnReasonCode.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:33:26.98546-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT52.4750086S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Win32\Win32Api.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:33:31.619901-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT19.9094664S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Win32\Constants\Win32ApiConstant.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:34:26.9286877-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT7M58.2347372S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-07-17T16:04:05.4094271-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.4880889S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\QueryEngine\FileAndDirectoryEntry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:31:14.7226996-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.3631292S" EditActiveTime="PT19.6733482S">
+      <ModifiedDate>2019-07-18T07:32:29.2997131-05:00</ModifiedDate>
+      <ModifiedBy>us991808</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\QueryEngine\FileQueryEngine.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:05:26.6703881-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.887669S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\QueryEngine\FrnFilePath.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:32:32.0110403-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5M4.7670101S" EditActiveTime="PT2M59.6716206S">
+      <ModifiedDate>2019-07-18T07:50:57.3068026-05:00</ModifiedDate>
+      <ModifiedBy>us991808</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Everything\Views\MainForm.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Everything\Everything.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:03:49.5302462-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT29.774463S" EditActiveTime="PT1M0.1027913S">
+      <ModifiedDate>2019-07-18T07:29:57.7468817-05:00</ModifiedDate>
+      <ModifiedBy>us991808</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Everything\Views\MainForm.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Everything\Everything.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:27:41.2838671-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.3685493S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Everything\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Everything\Everything.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:03:40.1607008-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT23.0668406S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Win32\Structures\USN_RECORD_V2.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:55:09.8313162-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.6544636S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnControlCode.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:32:37.620545-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.9676988S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnEntry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:32:42.6362261-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.7881232S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnErrorCode.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:32:48.3624774-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.8654304S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnJournalData.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:32:52.5021128-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M33.2083074S" EditActiveTime="PT2M34.5212306S">
+      <ModifiedDate>2019-07-18T07:50:18.3697432-05:00</ModifiedDate>
+      <ModifiedBy>us991808</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnOperator.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:06:56.6581716-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.1090779S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnReasonCode.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:33:26.98546-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT52.4750086S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Win32\Win32Api.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:33:31.619901-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT19.9094664S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Win32\Constants\Win32ApiConstant.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:34:26.9286877-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT23.0668406S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Win32\Structures\USN_RECORD_V2.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:55:09.8313162-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT19.9094664S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Win32\Constants\Win32ApiConstant.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:34:26.9286877-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT52.4750086S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Win32\Win32Api.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:33:31.619901-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.1090779S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnReasonCode.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:33:26.98546-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.8654304S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnJournalData.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:32:52.5021128-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.7881232S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnErrorCode.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:32:48.3624774-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.9676988S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnEntry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:32:42.6362261-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.6544636S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnControlCode.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:32:37.620545-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.887669S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\QueryEngine\FrnFilePath.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:32:32.0110403-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.4880889S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\QueryEngine\FileAndDirectoryEntry.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:31:14.7226996-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT29.774463S" EditActiveTime="PT1M0.1027913S">
+      <ModifiedDate>2019-07-18T07:29:57.7468817-05:00</ModifiedDate>
+      <ModifiedBy>us991808</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Everything\Views\MainForm.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Everything\Everything.csproj</ProjectName>
+      <CreatedDate>2019-07-18T07:27:41.2838671-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M33.2083074S" EditActiveTime="PT2M34.5212306S">
+      <ModifiedDate>2019-07-18T07:50:18.3697432-05:00</ModifiedDate>
+      <ModifiedBy>us991808</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\UsnOperation\UsnOperator.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:06:56.6581716-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.3631292S" EditActiveTime="PT19.6733482S">
+      <ModifiedDate>2019-07-18T07:32:29.2997131-05:00</ModifiedDate>
+      <ModifiedBy>us991808</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\QueryEngine\FileQueryEngine.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Y.FileQueryEngine\Y.FileQueryEngine.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:05:26.6703881-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7M58.2347372S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-07-17T16:04:05.4094271-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5M4.7670101S" EditActiveTime="PT2M59.6716206S">
+      <ModifiedDate>2019-07-18T07:50:57.3068026-05:00</ModifiedDate>
+      <ModifiedBy>us991808</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Everything\Views\MainForm.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Everything\Everything.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:03:49.5302462-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.3685493S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\us991808\source\repos\Everything\Everything\Everything\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\us991808\source\repos\Everything\Everything\Everything\Everything.csproj</ProjectName>
+      <CreatedDate>2019-07-17T16:03:40.1607008-05:00</CreatedDate>
+      <ViewedBy>us991808</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>

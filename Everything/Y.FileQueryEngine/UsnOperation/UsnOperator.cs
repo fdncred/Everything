@@ -14,6 +14,8 @@ namespace Y.FileQueryEngine.UsnOperation
         public delegate void GetEntriesHandler(DriveInfo drive, List<UsnEntry> data);
 
         protected USN_JOURNAL_DATA ntfsUsnJournalData;
+        public long MaxFiles { get; set; } = 0; // 0 equals infinite
+        private long FileCounter { get; set; } = 0;
 
         public DriveInfo Drive
         {
@@ -144,8 +146,9 @@ namespace Y.FileQueryEngine.UsnOperation
 
             return result;
         }
-        public void GetEntries(long usn, ulong fileNumber, GetEntriesHandler handler, int count)
+        public void GetEntries(long usn, ulong fileNumber, GetEntriesHandler handler, int count, int maxFiles)
         {
+            MaxFiles = maxFiles;
             List<UsnEntry> result = new List<UsnEntry>();
             UsnErrorCode usnErrorCode = this.QueryUSNJournal();
             if (usnErrorCode == UsnErrorCode.SUCCESS)
@@ -182,6 +185,7 @@ namespace Y.FileQueryEngine.UsnOperation
                         if (rec.FileReferenceNumber > fileNumber || rec.Usn > usn)
                         {
                             result.Add(rec);
+                            FileCounter++;
                         }
 
                         ptrUsnRecord = new IntPtr(ptrUsnRecord.ToInt64() + usnRecord.RecordLength);
@@ -194,6 +198,9 @@ namespace Y.FileQueryEngine.UsnOperation
                         }
                     }
                     Marshal.WriteInt64(ptrMftEnumData, Marshal.ReadInt64(ptrData, 0));
+
+                    if (MaxFiles != 0 && FileCounter > MaxFiles)
+                        break;
                 }
 
                 Marshal.FreeHGlobal(ptrData);

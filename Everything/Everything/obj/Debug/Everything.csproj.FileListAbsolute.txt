@@ -20,3 +20,17 @@ D:\CoCo\GitHub\Everything\Everything\Everything\bin\Debug\Y.FileQueryEngine.dll
 D:\CoCo\GitHub\Everything\Everything\Everything\bin\Debug\Y.FileQueryEngine.pdb
 D:\CoCo\GitHub\Everything\Everything\Everything\bin\Debug\Y.FileQueryEngine.xml
 D:\CoCo\GitHub\Everything\Everything\Everything\obj\Debug\Everything.csproj.CoreCompileInputs.cache
+C:\Users\us991808\source\repos\Everything\Everything\Everything\bin\Debug\Everything.exe.config
+C:\Users\us991808\source\repos\Everything\Everything\Everything\bin\Debug\Everything.exe
+C:\Users\us991808\source\repos\Everything\Everything\Everything\bin\Debug\Everything.pdb
+C:\Users\us991808\source\repos\Everything\Everything\Everything\bin\Debug\Y.FileQueryEngine.dll
+C:\Users\us991808\source\repos\Everything\Everything\Everything\bin\Debug\Y.FileQueryEngine.pdb
+C:\Users\us991808\source\repos\Everything\Everything\Everything\bin\Debug\Y.FileQueryEngine.xml
+C:\Users\us991808\source\repos\Everything\Everything\Everything\obj\Debug\Everything.csprojAssemblyReference.cache
+C:\Users\us991808\source\repos\Everything\Everything\Everything\obj\Debug\Everything.Properties.Resources.resources
+C:\Users\us991808\source\repos\Everything\Everything\Everything\obj\Debug\Everything.Views.MainForm.resources
+C:\Users\us991808\source\repos\Everything\Everything\Everything\obj\Debug\Everything.csproj.GenerateResource.cache
+C:\Users\us991808\source\repos\Everything\Everything\Everything\obj\Debug\Everything.csproj.CoreCompileInputs.cache
+C:\Users\us991808\source\repos\Everything\Everything\Everything\obj\Debug\Everything.csproj.CopyComplete
+C:\Users\us991808\source\repos\Everything\Everything\Everything\obj\Debug\Everything.exe
+C:\Users\us991808\source\repos\Everything\Everything\Everything\obj\Debug\Everything.pdb

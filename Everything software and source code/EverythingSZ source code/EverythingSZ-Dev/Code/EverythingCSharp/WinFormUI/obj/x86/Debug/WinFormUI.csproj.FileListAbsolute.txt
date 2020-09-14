@@ -1,0 +1,17 @@
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\obj\x86\Debug\WinFormUI.csprojAssemblyReference.cache
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\obj\x86\Debug\WinFormUI.MainForm.resources
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\obj\x86\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\obj\x86\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\bin\Debug\QueryEngine.dll
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\bin\Debug\UsnOperation.dll
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\bin\Debug\PInvoke.dll
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\bin\Debug\QueryEngine.pdb
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\bin\Debug\UsnOperation.pdb
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\bin\Debug\PInvoke.pdb
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\bin\Debug\PInvoke.dll.config
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\obj\x86\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\obj\x86\Debug\WinFormUI.csproj.CopyComplete
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\obj\x86\Debug\WinFormUI.exe
+C:\Users\us991808\source\repos\Everything\Everything 软件及源码资料\EverythingSZ 源码\EverythingSZ-Dev\Code\EverythingCSharp\WinFormUI\obj\x86\Debug\WinFormUI.pdb
